@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 **Short biography.** Battista Biggio received the MSc degree 
 in Electronic Engineering, with honors, and the PhD in Electronic 
 Engineering and Computer Science, respectively in 2006 and 2010, 
@@ -22,7 +23,7 @@ to contamination of training data.
 
 **Research interests.** Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
-**Awards.**
+**Awards**
 - 2022 ICML Test of Time Award for the paper "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
 - 2021 Best Paper Award and Pattern Recognition Medal for the paper "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
 
@@ -66,7 +67,9 @@ including (but not limited to):
 - ESANN 2019;
 - ICPR 2022 (Area Chair), 2018 (Area Chair).
 
-<iframe width="911" height="512" 
+**Talks**
+
+<iframe width="800" height="450" 
 src="https://www.youtube.com/embed/b89RRzWSJYI" 
 title="Battista Biggio | Machine Learning Security: Adversarial Attacks and Defenses" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
