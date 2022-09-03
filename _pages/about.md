@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Battista Biggio | Home"
+title: "Battista Biggio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,15 +20,11 @@ he visited the University of Tuebingen (Germany),
 and worked on the security of machine learning algorithms 
 to contamination of training data.
 
-**Research interests.** His research interests currently include:
+**Research interests.** Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
-- secure / robust machine learning (adversarial machine learning);
-- multiple classifier systems; and
-- kernel methods;
-
-with applications in biometric recognition, 
-spam filtering, malware detection, 
-and intrusion detection in computer networks.
+**Awards.**
+- 2022 ICML Test of Time Award for the paper "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
+- 2021 Best Paper Award and Pattern Recognition Medal for the paper "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
 
 **Italian National Scientific Qualification.** Dr. Biggio obtained 
 the Italian National Scientific Qualification for the role of 
@@ -46,11 +42,12 @@ Electronics Engineers (Computer Society, and Systems, Man, and
 Cybernetics Society), and of the Italian Group of Italian 
 Researchers in Pattern Recognition (GIRPR/CVPL), 
 affiliated to the International Association for Pattern Recognition. 
-Since January 2017, he has been nominated chair of the 
+He was chair of the 
 IAPR Technical Committee 1 on Statistical Pattern Recognition 
-Techniques. He is Associate Editor of Elsevier Pattern Recognition, 
+Techniques (2017-2020), and Associate Editor of
 IEEE Trans. on Neural Networks and Learning Systems, 
-and the IEEE Computational Intelligence Magazine.
+IEEE Computational Intelligence Magazine, and Int'l Journal of Machine Learning and Cybernetics.
+He is currently Associate Editor of the Elsevier Pattern Recognition journal.
  
 He has co-chaired and organized DLS (2020, 2019), 
 AISec (2019, 2018, 2017), and S+SSPR (2020, 2018, 2016). 
