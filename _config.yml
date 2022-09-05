@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Battista Biggio | Home"
+title                    : "Battista Biggio"
 title_separator          : "-"
 name                     : &name "Battista Biggio"
 description              : &description "Assistant Professor at University of Cagliari (Italy), Co-Founder of Pluribus One."
