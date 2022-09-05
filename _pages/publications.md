@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
 **Journal Papers**
 1. F. Crecchi, M. Melis, A. Sotgiu, D. Bacciu, and B. Biggio. <b>Fader: fast adversarial example rejection</b>. <i>Neurocomputing</i>, 470:257-268, 2022.
 2. M. Pintor, L. Demetrio, A. Sotgiu, M. Melis, A. Demontis, and B. Biggio. <b>Secml: secure and explainable machine learning in python</b>. <i>SoftwareX</i>, 18:101095, 2022.
