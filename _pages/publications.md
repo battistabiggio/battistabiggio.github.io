@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For a more updated list of papers and citations, please check also my Google Scholar profile page: https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en
+
+
+**Pre-prints**
+1. M. Pintor, L. Demetrio, A. Sotgiu, G. Manca, A. Demontis, N. Carlini, B. Biggio, and F. Roli. <b>Indicators of attack failure: debugging and improving optimization of adversarial examples</b>. <i>ArXiv e-prints</i>, 2021.
 
 **Journal Papers**
 1. F. Crecchi, M. Melis, A. Sotgiu, D. Bacciu, and B. Biggio. <b>Fader: fast adversarial example rejection</b>. <i>Neurocomputing</i>, 470:257-268, 2022.
@@ -17,27 +19,26 @@ author_profile: true
 5. L. Demetrio, S. E. Coull, B. Biggio, G. Lagorio, A. Armando, and F. Roli. <b>Adversarial EXEmples: a survey and experimental evaluation of practical attacks on machine learning for windows malware detection</b>. <i>ACM Trans. Priv. Secur.</i>, September 2021.
 6. P. Temple, G. Perrouin, M. Acher, B. Biggio, J.-M. Jézéquel, and F. Roli. <b>Empirical assessment of generating adversarial configurations for software product lines</b>. <i>Empirical Software Engineering</i>, 2021.
 7. H.-Y. Lin and B. Biggio. <b>Adversarial machine learning: attacks from laboratories to the real world</b>. <i>Computer</i>, 54(5):56-60, 2021.
-8. M. Pintor, L. Demetrio, A. Sotgiu, G. Manca, A. Demontis, N. Carlini, B. Biggio, and F. Roli. <b>Indicators of attack failure: debugging and improving optimization of adversarial examples</b>. <i>ArXiv e-prints</i>, 2021.
-9. L. Demetrio, B. Biggio, G. Lagorio, F. Roli, and A. Armando. <b>Functionality-preserving black-box optimization of adversarial windows malware</b>. <i>IEEE Transactions on Information Forensics and Security</i>, 16:3469-3478, 2021.
-10. S. Melacci, G. Ciravegna, A. Sotgiu, A. Demontis, B. Biggio, M. Gori, and F. Roli. <b>Domain knowledge alleviates adversarial attacks in multi-label classifiers</b>. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, pages 1-1, 2021.
-11. D. Maiorca, A. Demontis, B. Biggio, F. Roli, and G. Giacinto. <b>Adversarial detection of flash malware: limitations and open issues</b>. <i>Comput. Secur.</i>, 96:101901, 2020.
-12. A. Sotgiu, A. Demontis, M. Melis, B. Biggio, G. Fumera, X. Feng, and F. Roli. <b>Deep neural rejection against adversarial examples</b>. <i>EURASIP J. Information Security</i>, 2020.
-13. A. Demontis, M. Melis, B. Biggio, D. Maiorca, D. Arp, K. Rieck, I. Corona, G. Giacinto, and F. Roli. <b>Yes, machine learning can be more secure! a case study on android malware detection</b>. <i>IEEE Transactions on Dependable and Secure Computing</i>, 16(4):711-724, July 2019.
-14. D. Maiorca and B. Biggio. <b>Digital investigation of PDF files: unveiling traces of embedded malware</b>. <i>IEEE Security & Privacy</i>, 17(01):63-71, Jan. 2019.
-15. D. Maiorca, B. Biggio, and G. Giacinto. <b>Towards adversarial malware detection: lessons learned from PDF-based attacks</b>. <i>ACM Comput. Surv.</i>, 52(4):78:1–78:36, 2019.
-16. B. Biggio and F. Roli. <b>Wild patterns: ten years after the rise of adversarial machine learning</b>. <i>Pattern Recognition</i>, 84:317-331, 2018.
-17. B. Biggio, G. Fumera, G. L. Marcialis, and F. Roli. <b>Statistical meta-analysis of presentation attacks for secure multibiometric systems</b>. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 39(3):561-575, March 2017.
-18. S. Rota Bulò, B. Biggio, I. Pillai, M. Pelillo, and F. Roli. <b>Randomized prediction games for adversarial machine learning</b>. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 28(11):2466-2478, 2017.
-19. A. Demontis, M. Melis, B. Biggio, G. Fumera, and F. Roli. <b>Super-sparse learning in similarity spaces</b>. <i>IEEE Computational Intelligence Magazine</i>, 11(4):36-45, Nov 2016.
-20. F. Zhang, P.P.K. Chan, B. Biggio, D.S. Yeung, and F. Roli. <b>Adversarial feature selection against evasion attacks</b>. <i>IEEE Transactions on Cybernetics</i>, 46(3):766-777, 2016.
-21. B. Biggio, G. Fumera, P. Russu, L. Didaci, and F. Roli. <b>Adversarial biometric recognition: a review on biometric system security from the adversarial machine-learning perspective</b>. <i>IEEE Signal Processing Magazine</i>, 32(5):31-41, Sept 2015.
-22. G. Ennas, B. Biggio, and M. C. Di Guardo. <b>Data-driven journal meta-ranking in business and management</b>. <i>Scientometrics</i>, 105(3):1911-1929, 2015.
-23. H. Xiao, B. Biggio, B. Nelson, H. Xiao, C. Eckert, and F. Roli. <b>Support vector machines under adversarial label contamination</b>. <i>Neurocomputing, Special Issue on Advances in Learning with Label Noise</i>, 160(0):53 - 62, 2015.
-24. B. Biggio, G. Fumera, and F. Roli. <b>Security evaluation of pattern classifiers under attack</b>. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 26(4):984-996, April 2014.
-25. B. Biggio, G. Fumera, and F. Roli. <b>Pattern recognition systems under attack: design issues and research challenges</b>. <i>Int'l J. Patt. Recogn. Artif. Intell.</i>, 28(7):1460002, 2014.
-26. B. Biggio, Z. Akhtar, G. Fumera, G. L. Marcialis, and F. Roli. <b>Security evaluation of biometric authentication systems under real spoofing attacks</b>. <i>IET Biometrics</i>, 1(1):11-24, March 2012.
-27. B. Biggio, G. Fumera, I. Pillai, and F. Roli. <b>A survey and experimental evaluation of image spam filtering techniques</b>. <i>Pattern Recognition Letters</i>, 32(10):1436 - 1446, 2011.
-28. B. Biggio, G. Fumera, and F. Roli. <b>Multiple classifier systems for robust classifier design in adversarial environments</b>. <i>Int'l J. Mach. Learn. and Cybernetics</i>, 1(1):27–41, 2010.
+8. L. Demetrio, B. Biggio, G. Lagorio, F. Roli, and A. Armando. <b>Functionality-preserving black-box optimization of adversarial windows malware</b>. <i>IEEE Transactions on Information Forensics and Security</i>, 16:3469-3478, 2021.
+9. S. Melacci, G. Ciravegna, A. Sotgiu, A. Demontis, B. Biggio, M. Gori, and F. Roli. <b>Domain knowledge alleviates adversarial attacks in multi-label classifiers</b>. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, pages 1-1, 2021.
+10. D. Maiorca, A. Demontis, B. Biggio, F. Roli, and G. Giacinto. <b>Adversarial detection of flash malware: limitations and open issues</b>. <i>Comput. Secur.</i>, 96:101901, 2020.
+11. A. Sotgiu, A. Demontis, M. Melis, B. Biggio, G. Fumera, X. Feng, and F. Roli. <b>Deep neural rejection against adversarial examples</b>. <i>EURASIP J. Information Security</i>, 2020.
+12. A. Demontis, M. Melis, B. Biggio, D. Maiorca, D. Arp, K. Rieck, I. Corona, G. Giacinto, and F. Roli. <b>Yes, machine learning can be more secure! a case study on android malware detection</b>. <i>IEEE Transactions on Dependable and Secure Computing</i>, 16(4):711-724, July 2019.
+13. D. Maiorca and B. Biggio. <b>Digital investigation of PDF files: unveiling traces of embedded malware</b>. <i>IEEE Security & Privacy</i>, 17(01):63-71, Jan. 2019.
+14. D. Maiorca, B. Biggio, and G. Giacinto. <b>Towards adversarial malware detection: lessons learned from PDF-based attacks</b>. <i>ACM Comput. Surv.</i>, 52(4):78:1–78:36, 2019.
+15. B. Biggio and F. Roli. <b>Wild patterns: ten years after the rise of adversarial machine learning</b>. <i>Pattern Recognition</i>, 84:317-331, 2018.
+16. B. Biggio, G. Fumera, G. L. Marcialis, and F. Roli. <b>Statistical meta-analysis of presentation attacks for secure multibiometric systems</b>. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 39(3):561-575, March 2017.
+17. S. Rota Bulò, B. Biggio, I. Pillai, M. Pelillo, and F. Roli. <b>Randomized prediction games for adversarial machine learning</b>. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 28(11):2466-2478, 2017.
+18. A. Demontis, M. Melis, B. Biggio, G. Fumera, and F. Roli. <b>Super-sparse learning in similarity spaces</b>. <i>IEEE Computational Intelligence Magazine</i>, 11(4):36-45, Nov 2016.
+19. F. Zhang, P.P.K. Chan, B. Biggio, D.S. Yeung, and F. Roli. <b>Adversarial feature selection against evasion attacks</b>. <i>IEEE Transactions on Cybernetics</i>, 46(3):766-777, 2016.
+20. B. Biggio, G. Fumera, P. Russu, L. Didaci, and F. Roli. <b>Adversarial biometric recognition: a review on biometric system security from the adversarial machine-learning perspective</b>. <i>IEEE Signal Processing Magazine</i>, 32(5):31-41, Sept 2015.
+21. G. Ennas, B. Biggio, and M. C. Di Guardo. <b>Data-driven journal meta-ranking in business and management</b>. <i>Scientometrics</i>, 105(3):1911-1929, 2015.
+22. H. Xiao, B. Biggio, B. Nelson, H. Xiao, C. Eckert, and F. Roli. <b>Support vector machines under adversarial label contamination</b>. <i>Neurocomputing, Special Issue on Advances in Learning with Label Noise</i>, 160(0):53 - 62, 2015.
+23. B. Biggio, G. Fumera, and F. Roli. <b>Security evaluation of pattern classifiers under attack</b>. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 26(4):984-996, April 2014.
+24. B. Biggio, G. Fumera, and F. Roli. <b>Pattern recognition systems under attack: design issues and research challenges</b>. <i>Int'l J. Patt. Recogn. Artif. Intell.</i>, 28(7):1460002, 2014.
+25. B. Biggio, Z. Akhtar, G. Fumera, G. L. Marcialis, and F. Roli. <b>Security evaluation of biometric authentication systems under real spoofing attacks</b>. <i>IET Biometrics</i>, 1(1):11-24, March 2012.
+26. B. Biggio, G. Fumera, I. Pillai, and F. Roli. <b>A survey and experimental evaluation of image spam filtering techniques</b>. <i>Pattern Recognition Letters</i>, 32(10):1436 - 1446, 2011.
+27. B. Biggio, G. Fumera, and F. Roli. <b>Multiple classifier systems for robust classifier design in adversarial environments</b>. <i>Int'l J. Mach. Learn. and Cybernetics</i>, 1(1):27–41, 2010.
 
 **Conference Papers**
 1. M. Melis, D. Maiorca, B. Biggio, G. Giacinto, and F. Roli. <b>Explaining black-box android malware detection</b>. In <i>26th European Signal Processing Conf.</i>, EUSIPCO, 524-528. Rome, Italy, 2018. IEEE.
@@ -110,3 +111,4 @@ author_profile: true
 
 **PhD Thesis**
 1. B. Biggio. <b>Adversarial Pattern Classification</b>. PhD Thesis, <i>University of Cagliari</i>, Cagliari (Italy), 2010.
+
