@@ -85,9 +85,9 @@ author:
   bio              : "Assistant Professor at University of Cagliari (Italy), Co-Founder of Pluribus One. Security of Machine Learning, CyberSecurity & Computer Vision."
   location         : "Cagliari, Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=battista+biggio"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=battista+biggio"
   googlescholar    : "https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en"
-  email            :
+  email            :  battista.biggio (at) unica.it
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
