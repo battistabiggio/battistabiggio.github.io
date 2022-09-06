@@ -24,8 +24,9 @@ to contamination of training data.
 **Research interests.** Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
 **Awards**
-- 2022 ICML Test of Time Award for the paper "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
-- 2021 Best Paper Award and Pattern Recognition Medal for the paper "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
+- 2022 ICML Test of Time Award for the paper: "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
+- 2021 Best Paper Award and Pattern Recognition Medal for the paper: "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
+- 2014 Premium Award for Best Paper in IET Biometrics journal: "Security Evaluation of Biometric Authentication Systems under Real Spoofing Attacks" (published on IET Biometrics in 2012).
 
 **Italian National Scientific Qualification.** Dr. Biggio obtained 
 the Italian National Scientific Qualification for the role of 
