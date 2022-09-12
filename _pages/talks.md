@@ -42,7 +42,7 @@ _Adversarial Pattern Recognition and Machine Learning_ is available
 on YouTube. The associated review article _"Wild Patterns: 
 Ten Years after the Rise of Adversarial Machine Learning"_ 
 is on [ArXiv](https://arxiv.org/abs/1712.03141). 
-The [tutorial webpage](https://www.pluribus-one.it/sec-ml/wild-patterns) 
+The [tutorial webpage](https://www.pluribus-one.it/research/sec-ml/wild-patterns) 
 contains also slides from the follow-up editions 
 at IJCAI-ECAI '18, EUSIPCO '18, ECCV '18, ACM CCS '18.
 <iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/_-seIeCmIrA?start=3865" width="560"></iframe>
