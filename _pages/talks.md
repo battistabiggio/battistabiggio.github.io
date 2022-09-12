@@ -8,8 +8,7 @@ author_profile: true
 **Talk:** Jul. 19, 2022. 2022 ICML Test of Time Award for the paper: [_Poisoning Attacks against Support Vector Machines_](https://arxiv.org/abs/1206.6389) (ICML 2012). The talk, titled "_Poisoning Attacks against SVMs: Ten Years After_", is available [here](https://slideslive.com/38987976).
 
 > This was the first paper proposing gradient-based attacks against machine learning, followed one year later by our [ECML PKDD 2013 paper on evasion attacks](https://arxiv.org/abs/1708.06131). 
-
-    The same idea of using gradient-based attacks on machine learning was independently rediscovered one year later to demonstrate the existence of [_adversarial examples_](https://arxiv.org/abs/1312.6199) against deep neural networks.
+> The same idea of using gradient-based attacks on machine learning was independently rediscovered one year later to demonstrate the existence of [_adversarial examples_](https://arxiv.org/abs/1312.6199) against deep neural networks.
 
 <p>&nbsp;</p>
 
