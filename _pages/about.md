@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>&nbsp;</p>
+Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
 **Positions held**
 - 2017-present: Tenure-track Assistant Professor, University of Cagliari, Italy
@@ -20,8 +20,6 @@ redirect_from:
 - Ph.D., Electronic Engineering and Computer Science, University of Cagliari, Italy, 2010
 - M.Sc., Electronic Engineering, University of Cagliari, Italy, 2006 (with honors)
 - B.Sc., Electronic Engineering, University of Cagliari, Italy, 2004 (with honors)
-
-**Research interests.** Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
 **Awards and Honors**
 - 2022 ICML Test of Time Award for the paper: "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
