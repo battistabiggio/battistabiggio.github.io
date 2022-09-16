@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p>&nbsp;</p>
 
 **Short biography.** Battista Biggio received the MSc degree 
 in Electronic Engineering, with honors, and the PhD in Electronic 
@@ -67,3 +68,6 @@ including (but not limited to):
 - ICML 2021, 2020, 2019;
 - ESANN 2019;
 - ICPR 2022 (Area Chair), 2018 (Area Chair).
+
+<p>&nbsp;</p>
+<p><a class="twitter-timeline" data-height="350" data-width="220" href="https://twitter.com/biggiobattista?ref_src=twsrc%5Etfw">Tweets by biggiobattista</a> </p>
