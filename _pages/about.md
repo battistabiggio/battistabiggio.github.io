@@ -10,64 +10,83 @@ redirect_from:
 
 <p>&nbsp;</p>
 
-**Short biography.** Battista Biggio received the MSc degree 
-in Electronic Engineering, with honors, and the PhD in Electronic 
-Engineering and Computer Science, respectively in 2006 and 2010, 
-from the University of Cagliari (Italy). 
-Since 2007 he has been working for the Department of Electrical 
-and Electronic Engineering of the same University, 
-where he currently is an Assistant Professor. 
-From May 12th, 2011 to November 12th, 2011, 
-he visited the University of Tuebingen (Germany), 
-and worked on the security of machine learning algorithms 
-to contamination of training data.
+**Positions held**
+- 2017-present: Tenure-track Assistant Professor, University of Cagliari, Italy
+- 2015-present: Co-founder and R&D manager of the spinoff company Pluribus One
+- 2010-2016: Postdoctoral Fellow, University of Cagliari, Italy
+- 2011: Visiting Researcher, University of Tuebingen, Germany
+
+**Education**
+- Ph.D., Electronic Engineering and Computer Science, University of Cagliari, Italy, 2010
+- M.Sc., Electronic Engineering, University of Cagliari, Italy, 2006 (with honors)
+- B.Sc., Electronic Engineering, University of Cagliari, Italy, 2004 (with honors)
 
 **Research interests.** Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
-**Awards**
+**Awards and Honors**
 - 2022 ICML Test of Time Award for the paper: "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
+- 2021 NeurIPS Outstanding Reviewer Award (top 8% reviewers)
 - 2021 Best Paper Award and Pattern Recognition Medal for the paper: "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
 - 2014 Premium Award for Best Paper in IET Biometrics journal: "Security Evaluation of Biometric Authentication Systems under Real Spoofing Attacks" (published on IET Biometrics in 2012).
 
-**Italian National Scientific Qualification.** Dr. Biggio obtained 
-the Italian National Scientific Qualification for the role of 
-Full Professor in Computer Engineering on July 30, 2020, 
-and of Full Professor in Computer Science on April 29, 2021; 
-and for the role of Associate Professor in Computer Engineering 
-on April 04, 2017, and of Associate Professor in Computer Science 
-on April 10, 2017.
- 
-**Reviewer activity / memberships.** Dr. Biggio serves as a reviewer 
-for several international conferences and journals, 
-including Pattern Recognition and Pattern Recognition Letters. 
-He is a Senior Member of the IEEE Institute of Electrical and 
-Electronics Engineers (Computer Society, and Systems, Man, and 
-Cybernetics Society), and of the Italian Group of Italian 
-Researchers in Pattern Recognition (GIRPR/CVPL), 
-affiliated to the International Association for Pattern Recognition. 
-He was chair of the 
-IAPR Technical Committee 1 on Statistical Pattern Recognition 
-Techniques (2017-2020), and Associate Editor of
-IEEE Trans. on Neural Networks and Learning Systems, 
-IEEE Computational Intelligence Magazine, and Int'l Journal of Machine Learning and Cybernetics.
-He is currently Associate Editor of the Elsevier Pattern Recognition journal.
- 
-He has co-chaired and organized DLS (2020, 2019), 
-AISec (2019, 2018, 2017), and S+SSPR (2020, 2018, 2016). 
-He has also served as PC member for several conferences, 
-including (but not limited to):
-- ICLR 2022, 2021;
-- CVPR 2020;
-- AAAI 2020, 2019;
-- WACV 2022;
-- IEEE Symp. on Security and Privacy 2022, 2021, 2020;
-- USENIX Sec. 2022, 2021, 2020;
-- ACM CCS 2022;
-- IJCAI 2020, 2019, 2018;
-- NeurIPS 2022, 2021 (top reviewer), 2020, 2019;
-- ICML 2021, 2020, 2019;
-- ESANN 2019;
-- ICPR 2022 (Area Chair), 2018 (Area Chair).
+**National and International Acknowledgements**
+- 2020-2021: Italian National Scientific Qualification for Full Professor (ING-INF/05 and INF/01)
+- 2017: Italian National Scientific Qualification for Associate Professor (ING-INF/05 and INF/01)
 
-<p>&nbsp;</p>
-<p><a class="twitter-timeline" data-height="350" data-width="220" href="https://twitter.com/biggiobattista?ref_src=twsrc%5Etfw">Tweets by biggiobattista</a> </p>
+**Top Italian Scientists.** Dr. Biggio is one of the most cited [Italian computer scientists](https://topitalianscientists.org/tis/47934/Battista_Biggio_-_Top_Italian_Scientist_in_Computer_Sciences)
+
+**Top Scientists Ranking for Computer Science.** Dr. Biggio is in the [Top Scientists Ranking for Computer Science](https://research.com/u/battista-biggio)
+
+ 
+**Publications and Research Impact.** Dr. Biggio has published more than 90 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
+His H-index is 41 and his papers collected more than 10,000 citations (according to Google Scholar, Mar. 2022). 
+Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
+
+**Professional Activities**<br> 
+_Advisory Board Memberships_
+- 2022: Advisory council member for Bosch AI Shield, Bosch Global Software Tech., India
+
+_Leadership in Scientific Associations_
+- 2018-2021: Chair of the IAPR TC1 on Statistical Pattern Recognition Techniques.
+
+_Society Memberships_
+- 2021-present:	Member of the [ELLIS Society](https://ellis.eu)
+- 2021-present: Elevated to ACM Senior Member
+- 2017-present: Elevated to the grade of IEEE Senior Member
+- 2016-present: Member of the Association for Computing Machinery (ACM)
+- 2014-present: Member of the AI*IA, Italian Association for Artificial Intelligence
+- 2013-present: Member of the IEEE Systems, Man and Cybernetics Society
+- 2008-present: Member of the Int'l Association for Pattern Recognition (IAPR) 
+- 2007-present: Member of the Institute of Electrical and Electronics Engineers (IEEE)
+- 2007-present: Member of the IEEE Computer Society 
+
+_Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2022)_
+- 2022: Track chair for AI, Machine Learning for Pattern Analysis at ICPR, Montreal, Canada.
+- 2021: co-chair Joint IAPR Int'l Workshop S+SSPR, Padua, Italy.
+- 2020: Senior Program Chair, IJCAI-PRICAI, online event.
+- 2020: co-chair 3rd Deep Learning Security Workshop, San Francisco, California, USA.
+- 2019: co-chair 1st ICML Workshop on Synthetic Realities, Long Beach, California, USA.
+- 2018: co-chair 12th ACM Workshop on Artificial Intelligence & Security, London, UK.
+- 2018: co-chair Joint IAPR Int'l Workshop S+SSPR, Beijing, China.
+ 
+_Editorial Boards_
+- 2017-now: Associate Editor of Elsevier Pattern Recognition
+- 2019-2020: Associate Editor of IEEE Computational Intelligence Magazine
+- 2017-2019: Associate Editor of IEEE Transactions on Neural Networks and Learning Systems
+- 2017-2018: Associate Editor of Int'l Journal of Machine Learning and Cybernetics
+ 
+_Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2022)_
+- 2022: 36th Conf. Neural Information Processing Systems (NeurIPS)
+- 2022: Int'l Conf. Machine Learning (ICML)
+- 2022: USENIX Security Symposium
+- 2022: ACM Conference on Computer and Communications Security (CCS)
+- 2022: 43rd IEEE Symp. Security & Privacy (SP)
+- 2021: IEEE Conf. Computer Vision and Pattern Recognition (CVPR)
+- 2021: 35th Conf. Neural Information Processing Systems (NeurIPS)
+- 2021: USENIX Security Symposium
+- 2021: Int'l Conf. Machine Learning (ICML)
+- 2021: Int'l Conf. Learning Representations (ICLR)
+- 2021: 42nd IEEE Symp. Security & Privacy (SP)
+- 2020: 41st IEEE Symp. Security & Privacy (SP)
+- 2020: 34th Conf. Neural Information Processing Systems (NeurIPS)
+
