@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Interview:** Oct. 5, 2022. Short interview about AI Security, for Cybersecurity Magazine, during the ETSI Cybersecurity Conference 2022. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0yDdpQUOzVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Talk:** Jul. 19, 2022. 2022 ICML Test of Time Award for the paper: [_Poisoning Attacks against Support Vector Machines_](https://arxiv.org/abs/1206.6389) (ICML 2012). The talk, titled "_Poisoning Attacks against SVMs: Ten Years After_", is available [here](https://slideslive.com/38987976).
 
 > This was the first paper proposing gradient-based attacks against machine learning, followed one year later by our [ECML PKDD 2013 paper on evasion attacks](https://arxiv.org/abs/1708.06131). 
