@@ -11,8 +11,9 @@ redirect_from:
 Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
 **Positions held**
-- 2017-present: Tenure-track Assistant Professor, University of Cagliari, Italy
+- 2022-present: Associate Professor, University of Cagliari, Italy
 - 2015-present: Co-founder and R&D manager of the spinoff company Pluribus One
+- 2017-2022: Tenure-track Assistant Professor, University of Cagliari, Italy
 - 2010-2016: Postdoctoral Fellow, University of Cagliari, Italy
 - 2011: Visiting Researcher, University of Tuebingen, Germany
 
@@ -36,8 +37,8 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 **Top Scientists Ranking for Computer Science.** Dr. Biggio is in the [Top Scientists Ranking for Computer Science](https://research.com/u/battista-biggio)
 
  
-**Publications and Research Impact.** Dr. Biggio has published more than 90 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
-His H-index is 41 and his papers collected more than 10,000 citations (according to Google Scholar, Mar. 2022). 
+**Publications and Research Impact.** Dr. Biggio has published more than 100 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
+His H-index is 43 and his papers collected more than 10,800 citations (according to Google Scholar, Nov. 2022). 
 Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
 
 **Professional Activities**<br> 
@@ -74,6 +75,7 @@ _Editorial Boards_
 - 2017-2018: Associate Editor of Int'l Journal of Machine Learning and Cybernetics
  
 _Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2022)_
+- 2023: USENIX Security Symposium
 - 2022: 36th Conf. Neural Information Processing Systems (NeurIPS)
 - 2022: Int'l Conf. Machine Learning (ICML)
 - 2022: USENIX Security Symposium
