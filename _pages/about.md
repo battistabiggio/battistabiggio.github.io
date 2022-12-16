@@ -23,6 +23,7 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 - B.Sc., Electronic Engineering, University of Cagliari, Italy, 2004 (with honors)
 
 **Awards and Honors**
+- Google 2022 Security and Privacy Research Award, sponsored by the Security, Anti-abuse and Privacy teams at Google, for his research achievements in adversarial machine learning.
 - 2022 ICML Test of Time Award for the paper: "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
 - 2021 NeurIPS Outstanding Reviewer Award (top 8% reviewers)
 - 2021 Best Paper Award and Pattern Recognition Medal for the paper: "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
