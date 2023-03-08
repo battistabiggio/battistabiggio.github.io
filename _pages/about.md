@@ -61,7 +61,7 @@ _Society Memberships_
 - 2007-present: Member of the Institute of Electrical and Electronics Engineers (IEEE)
 - 2007-present: Member of the IEEE Computer Society 
 
-_Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2022)_
+_Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2023)_
 - 2023: Area chair for NeurIPS.
 - 2023: Track chair for Adversarial Machine Learning, Int'l Conf. Machine Learning and Cybernetics (ICMLC), Adelaide, Australia.
 - 2022: Track chair for AI, Machine Learning for Pattern Analysis, ICPR, Montreal, Canada.
@@ -78,7 +78,7 @@ _Editorial Boards_
 - 2017-2019: Associate Editor of IEEE Transactions on Neural Networks and Learning Systems
 - 2017-2018: Associate Editor of Int'l Journal of Machine Learning and Cybernetics
  
-_Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2022)_
+_Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2023)_
 - 2023: USENIX Security Symposium
 - 2022: 36th Conf. Neural Information Processing Systems (NeurIPS)
 - 2022: Int'l Conf. Machine Learning (ICML)
