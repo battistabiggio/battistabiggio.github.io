@@ -62,7 +62,9 @@ _Society Memberships_
 - 2007-present: Member of the IEEE Computer Society 
 
 _Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2022)_
-- 2022: Track chair for AI, Machine Learning for Pattern Analysis at ICPR, Montreal, Canada.
+- 2023: Area chair for NeurIPS.
+- 2023: Track chair for Adversarial Machine Learning, Int'l Conf. Machine Learning and Cybernetics (ICMLC), Adelaide, Australia.
+- 2022: Track chair for AI, Machine Learning for Pattern Analysis, ICPR, Montreal, Canada.
 - 2021: co-chair Joint IAPR Int'l Workshop S+SSPR, Padua, Italy.
 - 2020: Senior Program Chair, IJCAI-PRICAI, online event.
 - 2020: co-chair 3rd Deep Learning Security Workshop, San Francisco, California, USA.
