@@ -40,7 +40,7 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 
  
 **Publications and Research Impact.** Dr. Biggio has published more than 100 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
-His H-index is 43 and his papers collected more than 10,800 citations (according to Google Scholar, Nov. 2022). 
+His H-index is 44 and his papers collected more than 12,800 citations (according to Google Scholar, Aug. 2023). 
 Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
 
 **Professional Activities**<br> 
@@ -73,13 +73,16 @@ _Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2
 - 2018: co-chair Joint IAPR Int'l Workshop S+SSPR, Beijing, China.
  
 _Editorial Boards_
-- 2017-now: Associate Editor of Elsevier Pattern Recognition
+- 2023-now: Associate Editor in Chief of Elsevier Pattern Recognition 
+- 2017-2023: Associate Editor of Elsevier Pattern Recognition
 - 2019-2020: Associate Editor of IEEE Computational Intelligence Magazine
 - 2017-2019: Associate Editor of IEEE Transactions on Neural Networks and Learning Systems
 - 2017-2018: Associate Editor of Int'l Journal of Machine Learning and Cybernetics
  
 _Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2023)_
+- 2024: USENIX Security Symposium
 - 2023: USENIX Security Symposium
+- 2023: 28th European Symposium on Research in Computer Security (ESORICS)
 - 2022: 36th Conf. Neural Information Processing Systems (NeurIPS)
 - 2022: Int'l Conf. Machine Learning (ICML)
 - 2022: USENIX Security Symposium
