@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 For a more updated list of papers and citations, please check also my Google Scholar profile page at [https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en)
+
 **Pre-prints**
 1. B. Montaruli, L. Demetrio, A. Valenza, B. Biggio, L. Compagna, D. Balzarotti, D. Ariu, and L. Piras. <a href="https://arxiv.org/abs/2308.04964"><b>Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning</b></a>. <i>ArXiv e-prints</i>, 2023. 
 2. A. Demontis, M. Pintor, L. Demetrio, K. Grosse, H.-Y. Lin, C. Fang, B. Biggio, and F. Roli. <a href="https://arxiv.org/abs/2212.06123"><b>A Survey on Reinforcement Learning Security with Application to Autonomous Driving</b></a>. <i>ArXiv e-prints</i>, 2022. 
