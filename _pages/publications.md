@@ -13,8 +13,7 @@ For a more updated list of papers and citations, please check also my Google Sch
 3. A. E. Cinà, K. Grosse, A. Demontis, B. Biggio, F. Roli, and M. Pelillo. <a href="https://arxiv.org/abs/2204.05986"><b>Machine Learning Security against Data Poisoning: Are We There Yet?</b></a>. <i>ArXiv e-prints</i>, 2022. 
 4. A. E. Cinà, A. Demontis, B. Biggio, F. Roli, and M. Pelillo. <a href="https://arxiv.org/abs/2203.08147"><b>Energy-latency attacks via sponge poisoning</b></a>. <i>arXiv preprint arXiv:2203.08147</i>, 2022. 
 5. A. E. Cinà, K. Grosse, S. Vascon, A. Demontis, B. Biggio, F. Roli, and M. Pelillo. <a href="https://arxiv.org/abs/2106.07214"><b>Backdoor learning curves: Explaining backdoor poisoning beyond influence functions</b></a>. <i>arXiv preprint arXiv:2106.07214</i>, 2021. 
-6. Y. Zheng, X. Feng, Z. Xia, X. Jiang, A. Demontis, M. Pintor, B. Biggio, and F. Roli. <a href="https://arxiv.org/abs/2108.11673"><b>Why Adversarial Reprogramming Works, When It Fails, and How to Tell the Difference</b></a>. <i>arXiv preprint arXiv:2108.11673</i>, 2021. 
-7. L. Demetrio and B. Biggio. <a href="https://arxiv.org/abs/2104.12848"><b>secml-malware: Pentesting Windows Malware Classifiers with Adversarial EXEmples in Python</b></a>. <i>arXiv preprint arXiv:2104.12848</i>, 2021. 
+6. L. Demetrio and B. Biggio. <a href="https://arxiv.org/abs/2104.12848"><b>secml-malware: Pentesting Windows Malware Classifiers with Adversarial EXEmples in Python</b></a>. <i>arXiv preprint arXiv:2104.12848</i>, 2021. 
 
 **Journal Papers**
 1. A. E. Cinà, K. Grosse, A. Demontis, S. Vascon, W. Zellinger, B. A. Moser, A. Oprea, B. Biggio, M. Pelillo, and F. Roli. <a href="https://doi.org/10.1145/3585385"><b>Wild Patterns Reloaded: A Survey of Machine Learning Security against Training Data Poisoning</b></a>. <i>ACM Comput. Surv.</i>, 55(13s):294:1–294:39, jul 2023. 
