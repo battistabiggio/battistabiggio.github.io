@@ -8,13 +8,19 @@ author_profile: true
 **Talk:** Nov. 24, 2023. TEDx ViaTirso talk on "_Hacking AI: Towards Intelligent Machines that Humans Can Trust_" - Independently organized TEDx event. [Slides.](https://battistabiggio.github.io/files/20231124-BIGGIO-TEDx.pdf)
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/1VuV4i2yiD8?si=aT6J_7bMjUneEEha" width="560"></iframe>
 
+<p>&nbsp;</p>
+
 **Interview:** Oct. 5, 2022. Short interview about AI Security, for Cybersecurity Magazine, during the ETSI Cybersecurity Conference 2022. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0yDdpQUOzVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
 
 **Talk:** Jul. 19, 2022. 2022 ICML Test of Time Award for the paper: [_Poisoning Attacks against Support Vector Machines_](https://arxiv.org/abs/1206.6389) (ICML 2012). The talk, titled "_Poisoning Attacks against SVMs: Ten Years After_", is available [here](https://slideslive.com/38987976).
 
 > This was the first paper proposing gradient-based attacks against machine learning, followed one year later by our [ECML PKDD 2013 paper on evasion attacks](https://arxiv.org/abs/1708.06131). 
 > The same idea of using gradient-based attacks on machine learning was independently rediscovered one year later to demonstrate the existence of [_adversarial examples_](https://arxiv.org/abs/1312.6199) against deep neural networks.
+
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/xWn-bHdAK70?si=DTch5qCIKV0SD-nY" width="560"></iframe>
 
 <p>&nbsp;</p>
 
