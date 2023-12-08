@@ -4,8 +4,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-**Talk:** Nov. 24, 2023. TEDx ViaTirso talk on "_Hacking AI: Towards Intelligent Machines that Humans Can Trust_" - Independently organized TEDx event. [Slides](https://battistabiggio.github.io/files/20231124-BIGGIO-TEDx).
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/watch?v=1VuV4i2yiD8" width="560"></iframe>
+
+**Talk:** Nov. 24, 2023. TEDx ViaTirso talk on "_Hacking AI: Towards Intelligent Machines that Humans Can Trust_" - Independently organized TEDx event. [Slides.](https://battistabiggio.github.io/files/20231124-BIGGIO-TEDx.pdf)
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/1VuV4i2yiD8?si=aT6J_7bMjUneEEha" width="560"></iframe>
 
 **Interview:** Oct. 5, 2022. Short interview about AI Security, for Cybersecurity Magazine, during the ETSI Cybersecurity Conference 2022. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0yDdpQUOzVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
