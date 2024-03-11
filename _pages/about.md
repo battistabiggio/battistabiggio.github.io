@@ -11,7 +11,8 @@ redirect_from:
 Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
 
 **Positions held**
-- 2022-present: Associate Professor, University of Cagliari, Italy
+- 2024-present: Full Professor, University of Cagliari, Italy
+- 2022-2024: Associate Professor, University of Cagliari, Italy
 - 2015-present: Co-founder and R&D manager of the spinoff company Pluribus One
 - 2017-2022: Tenure-track Assistant Professor, University of Cagliari, Italy
 - 2010-2016: Postdoctoral Fellow, University of Cagliari, Italy
