@@ -41,7 +41,7 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 
  
 **Publications and Research Impact.** Dr. Biggio has published more than 100 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
-His H-index is 44 and his papers collected more than 12,800 citations (according to Google Scholar, Aug. 2023). 
+His H-index is 49 and his papers collected more than 16,900 citations (according to Google Scholar, Nov. 2024). 
 Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
 
 **Professional Activities**<br> 
@@ -52,9 +52,10 @@ _Leadership in Scientific Associations_
 - 2018-2021: Chair of the IAPR TC1 on Statistical Pattern Recognition Techniques.
 
 _Society Memberships_
+- 2025-present: Elevated to the grade of IEEE Fellow
 - 2021-present:	Member of the [ELLIS Society](https://ellis.eu)
 - 2021-present: Elevated to ACM Senior Member
-- 2017-present: Elevated to the grade of IEEE Senior Member
+- 2017-2025: Elevated to the grade of IEEE Senior Member
 - 2016-present: Member of the Association for Computing Machinery (ACM)
 - 2014-present: Member of the AI*IA, Italian Association for Artificial Intelligence
 - 2013-present: Member of the IEEE Systems, Man and Cybernetics Society
@@ -63,7 +64,7 @@ _Society Memberships_
 - 2007-present: Member of the IEEE Computer Society 
 
 _Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2023)_
-- 2023: Area chair for NeurIPS.
+- 2023, 2024: Area chair for NeurIPS.
 - 2023: Track chair for Adversarial Machine Learning, Int'l Conf. Machine Learning and Cybernetics (ICMLC), Adelaide, Australia.
 - 2022: Track chair for AI, Machine Learning for Pattern Analysis, ICPR, Montreal, Canada.
 - 2021: co-chair Joint IAPR Int'l Workshop S+SSPR, Padua, Italy.
