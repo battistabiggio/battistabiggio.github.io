@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Battista Biggio’s research over the past 15 years has addressed theoretical and methodological issues in the area of machine learning and pattern recognition, in the context of real-world applications, including spam filtering, intrusion and malware detection, and biometric recognition. He has provided pioneering contributions in the area of adversarial machine learning, demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, and how to mitigate them, playing a leading role in the establishment and advancement of this research field.
+Battista Biggio’s research over the past 15 years has addressed theoretical and methodological 
+issues in the area of machine learning/AI security, in the context of real-world applications, 
+including spam filtering, intrusion and malware detection, and biometric recognition. 
+He has provided pioneering contributions in the area of adversarial machine learning, 
+demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, 
+and how to mitigate them, playing a leading role in the establishment and advancement of this 
+research field.
 
 **Positions held**
 - 2024-present: Full Professor, University of Cagliari, Italy
@@ -24,8 +30,8 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 - B.Sc., Electronic Engineering, University of Cagliari, Italy, 2004 (with honors)
 
 **Awards and Honors**
-- Google 2022 Security and Privacy Research Award, sponsored by the Security, Anti-abuse and Privacy teams at Google, for his research achievements in adversarial machine learning.
 - 2022 ICML Test of Time Award for the paper: "Poisoning Attacks against Support Vector Machines" (published at ICML 2012).
+- Google 2022 Security and Privacy Research Award, sponsored by the Security, Anti-abuse and Privacy teams at Google, for his research achievements in adversarial machine learning.
 - 2021 NeurIPS Outstanding Reviewer Award (top 8% reviewers)
 - 2021 Best Paper Award and Pattern Recognition Medal for the paper: "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" (published on Elsevier Pattern Recognition in 2018).
 - 2018 IJCAI-ECAI Distinguished Program Committee Member
@@ -41,7 +47,7 @@ Battista Biggio’s research over the past 15 years has addressed theoretical an
 
  
 **Publications and Research Impact.** Dr. Biggio has published more than 100 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
-His H-index is 49 and his papers collected more than 16,900 citations (according to Google Scholar, Nov. 2024). 
+His H-index is 51 and his papers collected more than 17,000 citations (according to Google Scholar, Apr. 2025). 
 Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
 
 **Professional Activities**<br> 
@@ -63,17 +69,16 @@ _Society Memberships_
 - 2007-present: Member of the Institute of Electrical and Electronics Engineers (IEEE)
 - 2007-present: Member of the IEEE Computer Society 
 
-_Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2018-2023)_
+_Organizer/Chair of Programme/Technical Committees, Conferences and Workshops (2020-2025)_
+- 2025: Area Chair 39th Conf. Neural Information Processing Systems (NeurIPS)
+- 2025: Area Chair 46th IEEE Symp. Security & Privacy (SP)
 - 2023, 2024: Area chair for NeurIPS.
 - 2023: Track chair for Adversarial Machine Learning, Int'l Conf. Machine Learning and Cybernetics (ICMLC), Adelaide, Australia.
 - 2022: Track chair for AI, Machine Learning for Pattern Analysis, ICPR, Montreal, Canada.
 - 2021: co-chair Joint IAPR Int'l Workshop S+SSPR, Padua, Italy.
 - 2020: Senior Program Chair, IJCAI-PRICAI, online event.
 - 2020: co-chair 3rd Deep Learning Security Workshop, San Francisco, California, USA.
-- 2019: co-chair 1st ICML Workshop on Synthetic Realities, Long Beach, California, USA.
-- 2018: co-chair 12th ACM Workshop on Artificial Intelligence & Security, London, UK.
-- 2018: co-chair Joint IAPR Int'l Workshop S+SSPR, Beijing, China.
- 
+
 _Editorial Boards_
 - 2023-now: Associate Editor in Chief of Elsevier Pattern Recognition 
 - 2017-2023: Associate Editor of Elsevier Pattern Recognition
@@ -81,7 +86,9 @@ _Editorial Boards_
 - 2017-2019: Associate Editor of IEEE Transactions on Neural Networks and Learning Systems
 - 2017-2018: Associate Editor of Int'l Journal of Machine Learning and Cybernetics
  
-_Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2023)_
+_Selected Programme/Technical Committee Memberships in Conferences and Workshops (2020-2025)_
+- 2025: Int'l Conference on Learning and Representations (ICLR)
+- 2025: Secure and Trustworthy Machine Learning (SaTML)
 - 2024: USENIX Security Symposium
 - 2023: USENIX Security Symposium
 - 2023: 28th European Symposium on Research in Computer Security (ESORICS)
