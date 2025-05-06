@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Battista Biggio’s research over the past 15 years has addressed theoretical and methodological 
-issues in the area of machine learning/AI security, in the context of real-world applications, 
-including spam filtering, intrusion and malware detection, and biometric recognition. 
-He has provided pioneering contributions in the area of adversarial machine learning, 
-demonstrating gradient-based evasion and poisoning attacks on machine-learning algorithms, 
-and how to mitigate them, playing a leading role in the establishment and advancement of this 
+I have been attacking machine-learning (ML) models well before adversarial examples 
+were even discovered, in the context of cybersecurity-related applications like spam filtering, malware detection, web security, and biometric recognition ([PRJ 2018](https://arxiv.org/pdf/1712.03141)). 
+Our team has been the first to formalize attacks on ML models as optimization problems, and
+demonstrate gradient-based evasion ([ECML-PKDD 2013](https://arxiv.org/pdf/1708.06131)) and poisoning ([ICML 2012](https://arxiv.org/pdf/1206.6389)) attacks on machine-learning algorithms, playing a leading role in the establishment and advancement of this 
 research field.
+
+I am a research co-director at sAIferLab, leading research efforts in AI Security.
+For our recent research activities in that space, see: https://www.saiferlab.ai/ai-security
 
 **Positions held**
 - 2024-present: Full Professor, University of Cagliari, Italy
