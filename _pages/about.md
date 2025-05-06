@@ -14,8 +14,8 @@ Our team has been the first to formalize attacks on ML models as optimization pr
 demonstrate gradient-based evasion ([ECML-PKDD 2013](https://arxiv.org/pdf/1708.06131)) and poisoning ([ICML 2012](https://arxiv.org/pdf/1206.6389)) attacks on machine-learning algorithms, playing a leading role in the establishment and advancement of this 
 research field.
 
-I am a research co-director at sAIferLab, leading research efforts in AI Security.
-For our recent research activities in that space, see: https://www.saiferlab.ai/ai-security
+I am a research co-director at [sAIferLab](https://www.saiferlab.ai/people/battistabiggio), leading research efforts in AI Security.
+For our recent research activities in that space, see: [https://www.saiferlab.ai/ai-security](https://www.saiferlab.ai/ai-security).
 
 **Positions held**
 - 2024-present: Full Professor, University of Cagliari, Italy
