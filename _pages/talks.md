@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Talk:** Oct. 20, 2025. RAID 2025 Invited Keynote Speech "Wild Patterns: Twenty Years of Attacks and Defenses in Machine Learning Security". [Slides.](https://battistabiggio.github.io/files/20251020-keynote-RAID.pdf)
+
 **Talk:** Nov. 24, 2023. TEDx ViaTirso talk on "_Hacking AI: Towards Intelligent Machines that Humans Can Trust_" - Independently organized TEDx event. [Slides.](https://battistabiggio.github.io/files/20231124-BIGGIO-TEDx.pdf)
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/1VuV4i2yiD8?si=aT6J_7bMjUneEEha" width="560"></iframe>
 
