@@ -5,6 +5,8 @@ permalink: /press/
 author_profile: true
 ---
 
+- _Dec. 28, 2024_. Interview on Nemesis Magazine [(in Italian)](https://www.nemesismagazine.it/sardegna-fucina-di-eccellenze-battista-biggio-insignito-dallinstitute-of-electrical-and-electronic-engineers-con-il-grado-di-fellow-nel-mondo-dellingegneria-e-dellinformatica-c/?doing_wp_cron=1764849230.3957760334014892578125).
+
 - _Oct. 17, 2022_. The Horizon EU project ELSA: European Lighthouse on Secure and Safe AI [(in Italian)](https://www.unica.it/unica/page/it/intelligenza_artificiale_luniversita_di_cagliari_nel_network_europeo_elsa).
 
 - _Jul. 26, 2022_. 2022 ICML Test of Time Award [(in Italian)](https://www.unica.it/unica/page/it/prestigioso_riconoscimento_internazionale_a_battista_biggio).
