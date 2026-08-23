@@ -49,7 +49,7 @@ For our recent research activities in that space, see: [https://www.saiferlab.ai
 
  
 **Publications and Research Impact.** Dr. Biggio has published more than 100 papers in scientific journals and conferences, including top-tier conferences in machine learning (ICML, NeurIPS) and computer security (USENIX Sec., NDSS, IEEE Symp. S&P). 
-His H-index is 51 and his papers collected more than 17,000 citations (according to Google Scholar, Apr. 2025). 
+His H-index is 54 and his papers collected more than 22,000 citations (according to Google Scholar, Aug. 2026). 
 Please refer to his [Google Scholar profile page](https://scholar.google.it/citations?user=OoUIOYwAAAAJ&hl=en), or to his [Scopus profile page](https://www.scopus.com/authid/detail.uri?authorId=23090165100) for the full list of publications.
 
 **Professional Activities**<br> 
@@ -60,6 +60,7 @@ _Leadership in Scientific Associations_
 - 2018-2021: Chair of the IAPR TC1 on Statistical Pattern Recognition Techniques.
 
 _Society Memberships_
+- 2026-present: Elevated to the grade of IAPR Fellow
 - 2025-present: Elevated to the grade of IEEE Fellow
 - 2021-present:	Member of the [ELLIS Society](https://ellis.eu)
 - 2021-present: Elevated to ACM Senior Member
